@@ -6,3 +6,4 @@ Things that you need:
 3-Two 100nF transistors.
 4-Two cool buttons for buttons
 5-A solderer and a long cable
+6-Ability to google
