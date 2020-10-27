@@ -20,16 +20,16 @@ Things that you need:
 
 ## Related Images
 
-```
-Raspbbery Pi:
-https://prnt.sc/v7nd3z
-*-*-*-*-*-*-*-*-*-*-*-*
-Button to stop song:
-https://prnt.sc/v7ndze
-*-*-*-*-*-*-*-*-*-*-*-*
-Button as doorbell:
-https://prnt.sc/v7neve
-```
+
+[Raspbbery Pi]
+(https://prnt.sc/v7nd3z)
+
+[Button to stop song]
+(https://prnt.sc/v7ndze)
+
+[Button as doorbell]
+(https://prnt.sc/v7neve)
+
 
 ## I want to implement it to my house
 
