@@ -19,6 +19,8 @@ Things that you need:
 ```
 
 ## Related Images
+
+```
 Raspbbery Pi:
 https://prnt.sc/v7nd3z
 *-*-*-*-*-*-*-*-*-*-*-*
@@ -27,10 +29,15 @@ https://prnt.sc/v7ndze
 *-*-*-*-*-*-*-*-*-*-*-*
 Button as doorbell:
 https://prnt.sc/v7neve
+```
 
 ## I want to implement it to my house
 
-Just reach me through my personal website, you can contact to me through Steam, Discord,
+Just reach me through my personal website, you can contact to me through Steam, Discord or anything like that Idk Lmao.
+
+```
+http://fairlanders.github.io/
+```
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
