@@ -1,10 +1,6 @@
 # Doorbell
 A smart doorbell which plays random songs.
 
-# Foobar
-
-Foobar is a Python library for dealing with word pluralization.
-
 ## Requirements
 
 Things that you need:
