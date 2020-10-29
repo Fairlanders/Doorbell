@@ -33,6 +33,8 @@ Just reach me through my personal website, you can contact to me through Steam, 
 
 ```
 http://fairlanders.github.io/
+Discord: Fl1ck__#8394
+Instagram: @fair.lander
 ```
 
 ## License
