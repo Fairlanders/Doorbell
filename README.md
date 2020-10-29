@@ -1,5 +1,5 @@
 # Doorbell
-A smart doorbell which plays random songs.
+A smart doorbell which plays random songs. One button is for outsiders to ring the bell, one button is for you to stop the music and transistors are for reducing noise, AKA: ghost button presses.
 
 ## Requirements
 
