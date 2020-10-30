@@ -13,9 +13,9 @@ Things that you need:
 5-Ability to google
 ```
 
-## How to do wiring.
+## Wiring
 
-![123133179_1038234493310629_3654978893005209562_n](https://user-images.githubusercontent.com/42900996/97668612-63b12300-1a93-11eb-8c4f-4f8e205991d5.png)
+![Screenshot_2](https://user-images.githubusercontent.com/42900996/97669810-f94db200-1a95-11eb-99e8-22aa191030c7.jpg)
 
 ## Related Images
 
@@ -36,7 +36,7 @@ If you want to learn more about noise, here's a [link](https://en.wikipedia.org/
 
 ## I want to implement it to my house
 
-Just reach me through my personal website, you can contact to me through Steam, Discord or anything like that Idk Lmao.
+You can find links to reach me below.
 
 ```
 http://fairlanders.github.io/
