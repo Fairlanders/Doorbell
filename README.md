@@ -32,7 +32,7 @@ Things that you need:
 
 You need capacitors to remove noise. With noise, your raspberry pi or arduino will get activated on GPIO pins 18 and 17, but in reality you didn't even touch a button! 
 
-If you want to learn more about noise, here's a [MIT](https://en.wikipedia.org/wiki/Noise_(electronics))
+If you want to learn more about noise, here's a [link](https://en.wikipedia.org/wiki/Noise_(electronics))
 
 ## I want to implement it to my house
 
