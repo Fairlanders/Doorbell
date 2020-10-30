@@ -13,8 +13,11 @@ Things that you need:
 5-Ability to google
 ```
 
-## Related Images
+## How to do wiring.
 
+![123133179_1038234493310629_3654978893005209562_n](https://user-images.githubusercontent.com/42900996/97668612-63b12300-1a93-11eb-8c4f-4f8e205991d5.png)
+
+## Related Images
 
 [Raspbbery Pi]
 (https://prnt.sc/v7nd3z)
@@ -25,6 +28,11 @@ Things that you need:
 [Button as doorbell]
 (https://prnt.sc/v7neve)
 
+## Why do I need capacitors?
+
+You need capacitors to remove noise. With noise, your raspberry pi or arduino will get activated on GPIO pins 18 and 17, but in reality you didn't even touch a button! 
+
+If you want to learn more about noise, here's a [MIT](https://en.wikipedia.org/wiki/Noise_(electronics))
 
 ## I want to implement it to my house
 
