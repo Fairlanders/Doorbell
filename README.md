@@ -15,7 +15,7 @@ Things that you need:
 
 ## Wiring
 
-![Screenshot_2](https://user-images.githubusercontent.com/42900996/97669810-f94db200-1a95-11eb-99e8-22aa191030c7.jpg)
+![](Images/Wiring.jpg)
 
 ## Related Images
 
